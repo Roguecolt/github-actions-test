@@ -6,4 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -  name: Say hello
-         run: echo "Hello CI|CD" 
+         run: echo "Hello, [Your Name]!"
+
